@@ -2,9 +2,12 @@
 ### For Example:
 ```
 ![Image Description](URL or Path to Image)
+![GitHub Logo](https://github.com/images/logo.png)
+
 ```
 ### Outputs:
-![Image Description](URL or Path to Image)
+![GitHub Logo](https://github.com/images/logo.png)
+
 
 
 
