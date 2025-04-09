@@ -9,9 +9,9 @@ Double Star:  **This text is bold**
 `
 ```
 ### Output
-`
-Double Star:  **This text is bold**
-`
+
+**This text is bold**
+
 ### For Example
 ```
 `
