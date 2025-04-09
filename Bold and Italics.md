@@ -3,7 +3,9 @@
 ## For Both : If you want user both Bold and Italics then use triple star [ *** ]
 
 ### For Example: 
-
-1. Double Star:  **This text is bold**
-2. Single Star: *This text is italic*
-3. Triple Star: ***This text is both bold and italic***
+'
+ Double Star:  **This text is bold**
+ '
+### Output
+3. Single Star: *This text is italic*
+4. Triple Star: ***This text is both bold and italic***
