@@ -8,12 +8,27 @@
 Double Star:  **This text is bold**
 `
 ```
-```
+### Output
 `
 Double Star:  **This text is bold**
 `
+### For Example
 ```
-
+`
+Single Star: *This text is italic*
+`
+```
 ### Output
-3. Single Star: *This text is italic*
-4. Triple Star: ***This text is both bold and italic***
+`
+Single Star: *This text is italic*
+`
+### For Example
+```
+`
+Triple Star: ***This text is both bold and italic***
+`
+```
+### Output
+`
+Triple Star: ***This text is both bold and italic***
+`
