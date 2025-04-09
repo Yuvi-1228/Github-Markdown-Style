@@ -19,9 +19,8 @@ Single Star: *This text is italic*
 `
 ```
 ### Output
-`
-Single Star: *This text is italic*
-`
+ *This text is italic*
+
 ### For Example
 ```
 `
@@ -29,6 +28,4 @@ Triple Star: ***This text is both bold and italic***
 `
 ```
 ### Output
-`
-Triple Star: ***This text is both bold and italic***
-`
+***This text is both bold and italic***
